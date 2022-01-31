@@ -1,0 +1,8 @@
+total 41
+drwxrwxrwx 1 gkansala gkansala   512 Jan 30 21:41 .
+drwxrwxrwx 1 gkansala gkansala   512 Jan 30 19:33 ..
+-rwxrwxrwx 1 gkansala gkansala     0 Jan 30 21:41 foo.txt
+-rwxrwxrwx 1 gkansala gkansala 16960 Jan 30 21:28 lswc
+-rwxrwxrwx 1 gkansala gkansala   354 Jan 30 21:28 lswc.c
+-rwxrwxrwx 1 gkansala gkansala 17136 Jan 30 21:36 redirout
+-rwxrwxrwx 1 gkansala gkansala   615 Jan 30 21:32 redirout.c
