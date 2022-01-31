@@ -13,7 +13,7 @@ int main(int argc, char *argv[]){
     close(pfd[1]);
     execlp("wc", "wc", "-l", (char *) 0);
     exit(0);
-    }
+  }
 
   dup2(pfd[1], 1);
   close(pfd[0]);
